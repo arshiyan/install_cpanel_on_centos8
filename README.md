@@ -1,5 +1,7 @@
 # install_cpanel_on_centos8
 Who to install cpanel WHM on centos
+آموزش نصب سی پنل در centos 8
+
 
 - yum install wget -y
 - echo '168.119.126.94 repo.mysql.com yum.mariadb.org' >> /etc/hosts
